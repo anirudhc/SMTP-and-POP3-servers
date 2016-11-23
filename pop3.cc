@@ -5,7 +5,7 @@
 #include <netdb.h>
 #include <stdio.h>
 #include <dirent.h>
-#include<string.h>
+#include <string.h>
 #include <stdlib.h>
 #include <signal.h>
 #include <getopt.h>
